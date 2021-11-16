@@ -1,6 +1,6 @@
 --All Credits Go To Owners
 --I DONT TAKE ANY CREDIT
-
+--P.S  Who wrote the easiest/most basic script? = Invizz#8244
 
 if game.PlaceId == 6284583030 then
  loadstring(game:HttpGet("https://raw.githubusercontent.com/4lve/Roblox/main/PetSimX.lua"))()
@@ -14,8 +14,9 @@ elseif game.PlaceId == 2377868063 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/The3Bakers4565/Spicy-Bagel/main/Other_Scripts/Hubs/Hitbox_Expander.lua"))()
 --Strucid(Arsenal Hitbox Extender)
 
-elseif game.PlaceId == ID2 then
-   -- game 2 script
+elseif game.PlaceId == 142823291 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
+   --Murder Mystery 2(Eclipse GUI)
 
 elseif game.PlaceId == ID2 then
    -- game 2 script
