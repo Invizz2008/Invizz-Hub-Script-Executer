@@ -1,0 +1,40 @@
+--All Credits Go To Owners
+--I DONT TAKE ANY CREDIT
+
+
+if game.PlaceId == 6284583030 then
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/4lve/Roblox/main/PetSimX.lua"))()
+--PetSimX(4lve's Script)
+
+elseif game.PlaceId == 286090429 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))()
+--Arsenal(Owlhub)
+
+elseif game.PlaceId == 2377868063 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/The3Bakers4565/Spicy-Bagel/main/Other_Scripts/Hubs/Hitbox_Expander.lua"))()
+--Strucid(Arsenal Hitbox Extender)
+
+elseif game.PlaceId == ID2 then
+   -- game 2 script
+
+elseif game.PlaceId == ID2 then
+   -- game 2 script
+
+elseif game.PlaceId == ID2 then
+   -- game 2 script
+
+elseif game.PlaceId == ID2 then
+   -- game 2 script
+
+elseif game.PlaceId == ID2 then
+   -- game 2 script
+
+elseif game.PlaceId == ID2 then
+   -- game 2 script
+
+elseif game.PlaceId == ID2 then
+   -- game 2 script
+
+elseif game.PlaceId == ID2 then
+   -- game 2 script
+end
